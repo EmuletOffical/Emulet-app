@@ -1,6 +1,6 @@
 // Emulet service worker — caches the app shell so it loads offline.
 // Bump CACHE when you replace index.html so clients pick up the new version.
-const CACHE = 'emulet-v1';
+const CACHE = 'emulet-v2';
 const ASSETS = [
   './',
   './index.html',
